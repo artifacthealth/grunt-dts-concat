@@ -25,7 +25,7 @@
 
 'use strict';
 
-var concat = require("dts-concat");
+var concat = require("dts-concat").concat;
 
 module.exports = function(grunt) {
 
